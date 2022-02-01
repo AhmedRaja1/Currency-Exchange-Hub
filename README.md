@@ -9,3 +9,6 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+## Application UI
+![UI](https://github.com/AhmedRaja1/Currency-Exchange-Hub/blob/main/App%20UI.png?raw=true)
